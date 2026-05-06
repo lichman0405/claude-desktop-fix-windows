@@ -1,5 +1,12 @@
 # Claude Desktop Third-Party Tools
 
+Plus: For the latest version of Claude Desktop "ban" the non-anthropic 3rd party models, users should downgrade claude desktop to 1.53x version.
+
+For windows:
+```powershell
+winget install --id Anthropic.Claude --exact --version 1.5354.0
+```
+
 Utility scripts for fixing and extending Claude Desktop's Cowork 3P workspace on Windows.
 
 ## Language Versions
